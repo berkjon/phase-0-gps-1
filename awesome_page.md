@@ -14,4 +14,4 @@ _blah_  -- Italic
 
 [Google](www.google.com)
 
-_ conflicts are fun _
+* conflicts are no fun *
