@@ -11,3 +11,5 @@ _blah_  -- Italic
 ```
 
 *Bold*
+
+[Google](www.google.com)
