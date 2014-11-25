@@ -13,3 +13,5 @@ _blah_  -- Italic
 *Bold*
 
 [Google](www.google.com)
+
+_ conflicts are fun _
